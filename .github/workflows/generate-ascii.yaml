@@ -1,6 +1,6 @@
 name: Generate ASCII workflow
 
-on: [push]
+on: push
 
 jobs:
     ascii_job:
